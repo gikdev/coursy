@@ -27,7 +27,7 @@ export default function Nav() {
             <li>
               <Link to="/profile" className="btn btn-ghost btn-circle avatar">
                 <div className="size-10 rounded-full">
-                  <img alt="Avatar image of user" src="/avatar.png" />
+                  <img alt="Avatar image of user" src="/coursy/avatar.png" />
                 </div>
               </Link>
             </li>
