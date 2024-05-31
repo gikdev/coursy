@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0",
+    "name": "Complete React Dev",
+    "url": "https://google.com/",
+    "price": 150,
+    "internet": 22,
+    "instructor": "Yihua Zhang, Andrei Neaogie",
+    "bought": "Yes",
+    "downloaded": "Yes",
+    "watched": "No",
+    "notes": "Still learning..."
+  },
+  {
+    "id": "1",
+    "name": "Complete VueJS Dev",
+    "url": "https://google.com/",
+    "price": 130,
+    "internet": 25,
+    "instructor": "Yihua Zhang, Andrei Neaogie",
+    "bought": "Yes",
+    "downloaded": "No",
+    "watched": "No",
+    "notes": "Still downloading..."
+  },
+  {
+    "id": "2",
+    "name": "Complete Angular Dev",
+    "url": "https://google.com/",
+    "price": 250,
+    "internet": 32,
+    "instructor": "Elena Boirell, Andrei Neaogie",
+    "bought": "No",
+    "downloaded": "No",
+    "watched": "No",
+    "notes": "Saving money to buy..."
+  }
+]

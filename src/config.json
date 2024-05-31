@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "builtWith": [
+    { "name": "React", "url": "https://react.dev/" },
+    { "name": "React Router", "url": "https://reactrouter.com/" },
+    { "name": "Phosphor Icons", "url": "https://phosphoricons.com/" },
+    { "name": "TailwindCSS", "url": "https://tailwindcss.com/" },
+    { "name": "DaisyUI", "url": "https://daisyui.com/" },
+    { "name": "Bun", "url": "https://bun.sh/" },
+    { "name": "IconScout", "url": "https://iconscout.com/" },
+    { "name": "React Nice Avatar", "url": "https://nice-avatar.dapi.to/" },
+    { "name": "Favicon.io", "url": "https://favicon.io/" },
+    { "name": "Google Fonts", "url": "https://fonts.google.com/" }
+  ]
+}
