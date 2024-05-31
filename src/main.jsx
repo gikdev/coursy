@@ -8,7 +8,7 @@ const container = document.querySelector("#root")
 const root = ReactDOM.createRoot(container)
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/coursy">
       <App />
     </BrowserRouter>
   </React.StrictMode>
