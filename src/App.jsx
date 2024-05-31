@@ -11,7 +11,7 @@ const E404 = () => <h1>Not found 404</h1>
 export default function App() {
   return (
     <Routes>
-      <Route path="/" element={<Nav />}>
+      <Route path="/coursy" element={<Nav />}>
         <Route index element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="profile" element={<Profile />} />
